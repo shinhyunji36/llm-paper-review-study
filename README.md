@@ -38,7 +38,6 @@
 ## 👥 참여자 소개
 
 - 김예신 (bailando.ys@gmail.com)
-- 김지호 (jiho112242@gmail.com)
 - 백지희 (tothebrenda@gmail.com)
 - 신정인 (21cscientist@gmail.com)
 - 신현지 (shinhyunji36@gmail.com)
