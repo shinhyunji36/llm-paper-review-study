@@ -6,11 +6,19 @@
 | 날짜 | 논문 | 발표자 | 발표 자료 |
 |------|------|------|------|
 | 2024-02-16 | Smarter, Better, Faster, Longer A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference | 영범 | [발표 자료](https://github.com/shinhyunji36/llm-paper-review-study/blob/main/reviews/Smarter%2C%20Better%2C%20Faster%2C%20Longer%20A%20Modern%20Bidirectional%20Encoder%20for%20Fast%2C%20Memory%20Efficient%2C%20and%20Long%20Context%20Finetuning%20and%20Inference_review.pdf) |
-| 2024-02-23 | Fast Inference from Transformers via Speculative Decoding | 현지 | [발표 자료]() |
-| 2024-03-02 | |  | [발표 자료]() |
-| 2024-03-09 | | 지호 | [발표 자료]() |
-| 2024-03-16 | | 정인 | [발표 자료]() |
-| 2024-03-23 | | 지희 | [발표 자료]() |
+| 2024-02-23 | Fast Inference from Transformers via Speculative Decoding (맛보기) | 현지 | |
+| 2024-03-02 |  Fast Inference from Transformers via Speculative Decoding |현지  | [발표 자료](https://github.com/shinhyunji36/llm-paper-review-study/blob/main/reviews/Speculative%20Decoding_ShinHyunji.pdf) |
+| 2024-03-09 | LM2 Large Memory Models | 영범 |  |
+| 2024-03-16 | | 정인 |  |
+| 2024-03-23 | | 예신 |  |
+| 2024-03-30 | | 지희 |  |
+| 2024-04-06 | | 영범 |  |
+| 2024-04-13 | | 현지 |  |
+| 2024-04-20 | | 정인 |  |
+| 2024-04-27 | | 예신 |  |
+| 2024-05-04 | | 지희 |  |
+| 2024-05-11 | 방학주간 (1주) |  |  |
+
 
 
 ## 📌 스터디 규칙
