@@ -9,7 +9,7 @@
 | 2024-02-23 | Fast Inference from Transformers via Speculative Decoding (맛보기) | 현지 | |
 | 2024-03-02 |  Fast Inference from Transformers via Speculative Decoding |현지  | [발표 자료](https://github.com/shinhyunji36/llm-paper-review-study/blob/main/reviews/Speculative%20Decoding_ShinHyunji.pdf) |
 | 2024-03-09 | LM2 Large Memory Models | 영범 | [발표자료](https://github.com/shinhyunji36/llm-paper-review-study/blob/main/reviews/LM2%20Large%20Memory%20Models%20review.pdf) |
-| 2024-03-16 | Toolformer: Language Models Can Teach Themselves to Use Tools | 정인 |  |
+| 2024-03-16 | Toolformer: Language Models Can Teach Themselves to Use Tools | 정인 | [발표자료](https://docs.google.com/presentation/d/1E2GvZxkIjbycNphlZFkAxVgsu87TUSZSh5DFiXfB190/edit?usp=sharing) |
 | 2024-03-23 | |  |  |
 | 2024-03-30 | | 지희 |  |
 | 2024-04-06 | | 영범 |  |
