@@ -12,7 +12,7 @@
 | 2024-03-16 | Toolformer: Language Models Can Teach Themselves to Use Tools | 정인 | [발표자료](https://github.com/shinhyunji36/llm-paper-review-study/blob/main/reviews/Toolformer_review.pdf) |
 | 2024-03-23 | | 영범 |  |
 | 2024-03-30 | 휴_강 |  |  |
-| 2024-04-06 | 한국어 무주어 구문의 영어 번역 양상: 인간번역, 구글번역, 챗GPT 간의 차이를 중심으로　 | 지희 |  |
+| 2024-04-06 | 한국어 무주어 구문의 영어 번역 양상: 인간번역, 구글번역, 챗GPT 간의 차이를 중심으로 | 지희 |  |
 | 2024-04-13 | | 영범 |  |
 | 2024-04-20 | | 현지 |  |
 | 2024-04-27 | | 정인 |  |
