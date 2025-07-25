@@ -15,7 +15,7 @@
 | 2024-04-27 | | 영범 |  |
 | 2024-06-08 | MCP(Model Context Protocol) | 정인 |  |
 | 2024-07-06 | The Illusion of Thinking | 지희 |  |
-|  | 종_강! |  |  |
+
 
 
 
