@@ -14,7 +14,7 @@
 | 2024-04-06 | 한국어 무주어 구문의 영어 번역 양상: 인간번역, 구글번역, 챗GPT 간의 차이를 중심으로 | 지희 |  |
 | 2024-04-27 | | 영범 |  |
 | 2024-06-08 | MCP(Model Context Protocol) | 정인 |  |
-| 2024-07-06 | The Illusion of Thinking | 지희 |  |
+| 2024-07-06 | The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity | 지희 |  |
 
 
 
